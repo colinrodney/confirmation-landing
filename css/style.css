@@ -5,7 +5,8 @@
   font-family: sans-serif;
 }
 
-/* body {
+body {
   background-color: rebeccapurple;
   color: #ffffff;
-} */
+  font-size: 18px;
+}
