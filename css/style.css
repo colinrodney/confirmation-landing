@@ -4,3 +4,8 @@
   margin: none;
   font-family: sans-serif;
 }
+
+.main-content_-card-img {
+  display: block;
+  width: 100%;
+}
