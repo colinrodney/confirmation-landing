@@ -14,8 +14,22 @@ body {
   font-size: 18px;
 }
 
+/* HEADER + INTRO SECTION */
 #logo,
 .intro {
   text-align: center;
   padding-top: 2rem;
+}
+
+.intro__main {
+  font-weight: 600;
+}
+
+.intro__main,
+.intro__sub {
+  padding: 0 140px;
+}
+
+.intro__sub {
+  font-size: 11px;
 }
