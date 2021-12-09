@@ -12,6 +12,9 @@
 
 body {
   font-size: 18px;
+  background-image: url("/assets/img/paper.jpg");
+  background-position: center;
+  background-attachment: fixed;
 }
 
 /* HEADER + INTRO SECTION */
