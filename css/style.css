@@ -5,6 +5,11 @@
   font-family: sans-serif;
 }
 
+/* UTILITY CLASSES */
+.centered-text {
+  text-align: center;
+}
+
 body {
   font-size: 18px;
 }
