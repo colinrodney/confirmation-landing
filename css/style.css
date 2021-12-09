@@ -42,7 +42,15 @@ body {
 
 /* CONTENT CARDS */
 
+.main-content__card {
+  padding: 0px 10px;
+}
+
 .main-content__card-img {
   display: block;
   margin: 0 auto;
+}
+
+.main-content__card-caption {
+  margin: 1.5rem 0;
 }
