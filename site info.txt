@@ -9,3 +9,7 @@ git push -u origin main
 
 SITE ADDRESS:
 https://colinrodney.github.io/confirmation-landing/
+
+red: #ce041b;
+white:#ffffff;
+light black text: #444444;
