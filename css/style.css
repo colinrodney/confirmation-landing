@@ -39,3 +39,10 @@ body {
   border-bottom: 5px solid red;
   margin-top: 2rem;
 }
+
+/* CONTENT CARDS */
+
+.main-content__card-img {
+  display: block;
+  margin: 0 auto;
+}
