@@ -54,3 +54,19 @@ body {
 .main-content__card-caption {
   margin: 1.5rem 0;
 }
+
+/* call to action */
+.main-content__card-action {
+  display: block;
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  text-transform: capitalize;
+  background-color: red;
+  color: #ffffff;
+  text-decoration: none;
+  padding: 0.8rem 1rem;
+  outline: none;
+  border-radius: 50px;
+  cursor: pointer;
+}
