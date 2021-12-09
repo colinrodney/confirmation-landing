@@ -73,3 +73,11 @@ body {
   border-radius: 50px;
   cursor: pointer;
 }
+
+@media (min-width: 768px) {
+  .main-content {
+    display: grid;
+    grid-template-rows: auto;
+    grid-template-columns: repeat(3, 33%);
+  }
+}
