@@ -1,0 +1,10 @@
+GIT INFO:
+
+Push exisiting repository from command line:
+
+git remote add origin https://github.com/colinrodney/confirmation-landing.git
+git branch -M main
+git push -u origin main
+
+
+SITE ADDRESS:
