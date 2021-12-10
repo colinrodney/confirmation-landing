@@ -103,6 +103,9 @@ body {
 @media (min-width: 768px) {
   .main-content {
     display: grid;
+    width: 100%;
+    max-width: 80%;
+    margin: 0 auto;
     grid-template-rows: auto;
     grid-template-columns: repeat(3, 33%);
   }
