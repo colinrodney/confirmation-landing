@@ -12,8 +12,9 @@
 
 body {
   font-size: 18px;
-  background-image: url("https://i.postimg.cc/qvH7Yg3k/paper-resized.jpg");
+  background-image: url("https://i.postimg.cc/T3Fgwnhn/paper-neutral.jpg");
   background-position: center;
+  /* background-repeat: no-repeat; */
   background-attachment: fixed;
 }
 
