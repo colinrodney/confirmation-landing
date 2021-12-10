@@ -47,7 +47,7 @@ body {
 
 /* section separator */
 .divider {
-  border-bottom: 5px solid red;
+  border: 2px solid red;
   margin-top: 2rem;
 }
 
