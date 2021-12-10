@@ -5,6 +5,13 @@
   font-family: sans-serif;
 }
 
+:root {
+  --red: #ce041b;
+  --white: #ffffff;
+  --black: #000000;
+  --light-black: #444444;
+}
+
 /* UTILITY CLASSES */
 .centered-text {
   text-align: center;
