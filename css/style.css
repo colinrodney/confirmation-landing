@@ -100,4 +100,8 @@ body {
     grid-template-rows: auto;
     grid-template-columns: repeat(3, 33%);
   }
+
+  .divider {
+    width: 25%;
+  }
 }
