@@ -13,3 +13,11 @@ https://colinrodney.github.io/confirmation-landing/
 red: #ce041b;
 white:#ffffff;
 light black text: #444444;
+
+
+image links
+https://i.postimg.cc/NFW0QjCk/nikes.jpg
+https://i.postimg.cc/HWKnw6W8/nikes.jpg
+https://i.postimg.cc/XYKv03f9/paper.jpg
+https://i.postimg.cc/T3Fgwnhn/paper-neutral.jpg
+
