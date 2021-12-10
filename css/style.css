@@ -47,7 +47,7 @@ body {
 
 /* section separator */
 .divider {
-  border: 2px solid red;
+  border: 2px solid var(--red);
   margin-top: 2rem;
 }
 
@@ -73,7 +73,7 @@ body {
   margin: 0 auto;
   text-align: center;
   text-transform: capitalize;
-  background-color: red;
+  background-color: var(--red);
   color: #ffffff;
   text-decoration: none;
   padding: 0.8rem 1rem;
